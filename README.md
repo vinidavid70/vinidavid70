@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python, Power BI, SQL and other Data Science tools
 - 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me: vinidavid70@gmail.com or https://www.linkedin.com/in/vin%C3%ADcius-david-guimar%C3%A3es-a2746414b
+- 📫 How to reach me: vinidavid70@gmail.com or https://www.linkedin.com/in/vinidavid
 
 
 <!---
